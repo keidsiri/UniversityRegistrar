@@ -1,4 +1,6 @@
 using System.Collections.Generic;
+// using System.DateTime;
+using System;
 
 namespace UniversityRegistrar.Models
 {
@@ -12,7 +14,7 @@ namespace UniversityRegistrar.Models
         public int StudentId { get; set; }
         public string FirstName { get; set; }
         public string LastName { get; set; }
-        public string DateEnrollment { get; set; }
+        public DateTime DateEnrollment { get; set; }
 
         public virtual ICollection<CourseStudent> JoinEntities { get;}
     }

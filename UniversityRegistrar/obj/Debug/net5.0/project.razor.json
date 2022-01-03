@@ -15617,6 +15617,27 @@
     "CSharpLanguageVersion": 900
   },
   "RootNamespace": "UniversityRegistrar",
-  "Documents": [],
+  "Documents": [
+    {
+      "FilePath": "/Users/kate/Desktop/UniversityRegistrar.Solution/UniversityRegistrar/Views/Home/Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/kate/Desktop/UniversityRegistrar.Solution/UniversityRegistrar/Views/Shared/Footer.cshtml",
+      "TargetPath": "Views\\Shared\\Footer.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/kate/Desktop/UniversityRegistrar.Solution/UniversityRegistrar/Views/Shared/_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/kate/Desktop/UniversityRegistrar.Solution/UniversityRegistrar/Views/Courses/Index.cshtml",
+      "TargetPath": "Views\\Courses\\Index.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
   "SerializationFormat": "0.2"
 }
