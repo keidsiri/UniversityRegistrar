@@ -52,3 +52,4 @@
 /Users/kate/Desktop/UniversityRegistrar.Solution/UniversityRegistrar/obj/Debug/net5.0/Razor/Views/Students/Edit.cshtml.g.cs
 /Users/kate/Desktop/UniversityRegistrar.Solution/UniversityRegistrar/obj/Debug/net5.0/Razor/Views/Students/Index.cshtml.g.cs
 /Users/kate/Desktop/UniversityRegistrar.Solution/UniversityRegistrar/obj/Debug/net5.0/Razor/Views/Students/AddCourse.cshtml.g.cs
+/Users/kate/Desktop/UniversityRegistrar.Solution/UniversityRegistrar/obj/Debug/net5.0/Razor/Views/Students/DeleteAll.cshtml.g.cs
