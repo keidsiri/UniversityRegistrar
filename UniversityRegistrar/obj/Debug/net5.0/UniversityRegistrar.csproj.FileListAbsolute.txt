@@ -46,3 +46,9 @@
 /Users/kate/Desktop/UniversityRegistrar.Solution/UniversityRegistrar/obj/Debug/net5.0/Razor/Views/Courses/Details.cshtml.g.cs
 /Users/kate/Desktop/UniversityRegistrar.Solution/UniversityRegistrar/obj/Debug/net5.0/Razor/Views/Courses/Delete.cshtml.g.cs
 /Users/kate/Desktop/UniversityRegistrar.Solution/UniversityRegistrar/obj/Debug/net5.0/Razor/Views/Courses/Edit.cshtml.g.cs
+/Users/kate/Desktop/UniversityRegistrar.Solution/UniversityRegistrar/obj/Debug/net5.0/Razor/Views/Students/Create.cshtml.g.cs
+/Users/kate/Desktop/UniversityRegistrar.Solution/UniversityRegistrar/obj/Debug/net5.0/Razor/Views/Students/Delete.cshtml.g.cs
+/Users/kate/Desktop/UniversityRegistrar.Solution/UniversityRegistrar/obj/Debug/net5.0/Razor/Views/Students/Details.cshtml.g.cs
+/Users/kate/Desktop/UniversityRegistrar.Solution/UniversityRegistrar/obj/Debug/net5.0/Razor/Views/Students/Edit.cshtml.g.cs
+/Users/kate/Desktop/UniversityRegistrar.Solution/UniversityRegistrar/obj/Debug/net5.0/Razor/Views/Students/Index.cshtml.g.cs
+/Users/kate/Desktop/UniversityRegistrar.Solution/UniversityRegistrar/obj/Debug/net5.0/Razor/Views/Students/AddCourse.cshtml.g.cs
