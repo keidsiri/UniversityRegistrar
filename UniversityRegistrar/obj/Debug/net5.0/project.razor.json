@@ -15624,6 +15624,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/Users/kate/Desktop/UniversityRegistrar.Solution/UniversityRegistrar/Views/Courses/Edit.cshtml",
+      "TargetPath": "Views\\Courses\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/Users/kate/Desktop/UniversityRegistrar.Solution/UniversityRegistrar/Views/Shared/Footer.cshtml",
       "TargetPath": "Views\\Shared\\Footer.cshtml",
       "FileKind": "mvc"
