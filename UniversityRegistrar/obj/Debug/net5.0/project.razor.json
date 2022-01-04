@@ -15644,6 +15644,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/Users/kate/Desktop/UniversityRegistrar.Solution/UniversityRegistrar/Views/Shared/NavBar.cshtml",
+      "TargetPath": "Views\\Shared\\NavBar.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/Users/kate/Desktop/UniversityRegistrar.Solution/UniversityRegistrar/Views/Students/Edit.cshtml",
       "TargetPath": "Views\\Students\\Edit.cshtml",
       "FileKind": "mvc"

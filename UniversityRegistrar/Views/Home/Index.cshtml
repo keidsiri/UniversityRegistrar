@@ -1,6 +1,16 @@
 @{
   Layout = "_Layout";
 }
-
+<link rel="stylesheet" href="~/css/styles.css">
+<div class="bg-transparent text-secondary px-4 py-5 text-center" id="home-index">
+    <div class="py-5">
+      <h1 class="display-5 fw-bold text-white">K&J University</h1>
+      <div class="col-lg-6 mx-auto">
+        <p class="fs-5 mb-4">Your resource for course and student lists!</p>
+        <div class="d-grid gap-2 d-sm-flex justify-content-sm-center">
+        </div>
+      </div>
+    </div>
+</div>
 <h1>Welcome to the University Resgistrar page!</h1>
 <p>@Html.ActionLink("See all students", "Index", "Students")</p> <p>@Html.ActionLink("See all courses", "Index", "Courses")</p>

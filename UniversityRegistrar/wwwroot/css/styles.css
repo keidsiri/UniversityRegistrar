@@ -7,3 +7,21 @@ div#footer {
 	background:#333;
 	padding:8px;
 }
+
+#home-index {
+	background-image: url(../css/Img/university.jpeg);
+	background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+  height: 35vh;
+  height: max-content;
+  box-shadow: 0px 1px 15px rgb(109, 109, 109);
+  border-radius: 0px;
+}
+
+/* body {
+	background-image: url(../css/Img/university.jpeg);
+	background-size: cover;
+	background-repeat: no-repeat;
+} */
