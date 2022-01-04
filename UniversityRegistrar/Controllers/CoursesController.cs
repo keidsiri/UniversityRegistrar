@@ -13,7 +13,7 @@ namespace UniversityRegistrar.Controllers
     public CoursesController(UniversityRegistrarContext db)
     {
       _db = db;
-    } 
+    }
 
     public ActionResult Index()
     {
@@ -21,7 +21,27 @@ namespace UniversityRegistrar.Controllers
       return View(model);
     }
 
+    public ActionResult Create()
+    {
+      return View();
+    }
 
+    [HttpPost]
+    public ActionResult Create(Course course)
+    {
+      _db.Courses.Add(course);
+      _db.SaveChanges();
+      return RedirectToAction("Index");
+    }
+
+    public ActionResult Details(int id)
+    {
+      var thisCourse = _db.Courses
+        .Include(course => course.JoinEntities)
+        .ThenInclude(join => join.Student)
+        .FirstOrDefault(course => course.CourseId == id);
+      return View(thisCourse);
+    }
 
 
 

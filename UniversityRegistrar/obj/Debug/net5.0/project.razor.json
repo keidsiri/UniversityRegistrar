@@ -15629,6 +15629,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/Users/kate/Desktop/UniversityRegistrar.Solution/UniversityRegistrar/Views/Courses/Details.cshtml",
+      "TargetPath": "Views\\Courses\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/Users/kate/Desktop/UniversityRegistrar.Solution/UniversityRegistrar/Views/Shared/_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
@@ -15636,6 +15641,11 @@
     {
       "FilePath": "/Users/kate/Desktop/UniversityRegistrar.Solution/UniversityRegistrar/Views/Courses/Index.cshtml",
       "TargetPath": "Views\\Courses\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/kate/Desktop/UniversityRegistrar.Solution/UniversityRegistrar/Views/Courses/Create.cshtml",
+      "TargetPath": "Views\\Courses\\Create.cshtml",
       "FileKind": "mvc"
     }
   ],

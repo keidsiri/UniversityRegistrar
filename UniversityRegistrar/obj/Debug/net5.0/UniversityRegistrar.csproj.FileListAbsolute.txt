@@ -6,7 +6,6 @@
 /Users/kate/Desktop/UniversityRegistrar.Solution/UniversityRegistrar/obj/Debug/net5.0/UniversityRegistrar.MvcApplicationPartsAssemblyInfo.cache
 /Users/kate/Desktop/UniversityRegistrar.Solution/UniversityRegistrar/obj/Debug/net5.0/UniversityRegistrar.RazorAssemblyInfo.cache
 /Users/kate/Desktop/UniversityRegistrar.Solution/UniversityRegistrar/obj/Debug/net5.0/UniversityRegistrar.RazorAssemblyInfo.cs
-/Users/kate/Desktop/UniversityRegistrar.Solution/UniversityRegistrar/bin/Debug/net5.0/appsetttings.json
 /Users/kate/Desktop/UniversityRegistrar.Solution/UniversityRegistrar/bin/Debug/net5.0/UniversityRegistrar.deps.json
 /Users/kate/Desktop/UniversityRegistrar.Solution/UniversityRegistrar/bin/Debug/net5.0/UniversityRegistrar.runtimeconfig.json
 /Users/kate/Desktop/UniversityRegistrar.Solution/UniversityRegistrar/bin/Debug/net5.0/UniversityRegistrar.runtimeconfig.dev.json
@@ -42,3 +41,6 @@
 /Users/kate/Desktop/UniversityRegistrar.Solution/UniversityRegistrar/obj/Debug/net5.0/ref/UniversityRegistrar.dll
 /Users/kate/Desktop/UniversityRegistrar.Solution/UniversityRegistrar/obj/Debug/net5.0/UniversityRegistrar.pdb
 /Users/kate/Desktop/UniversityRegistrar.Solution/UniversityRegistrar/obj/Debug/net5.0/UniversityRegistrar.genruntimeconfig.cache
+/Users/kate/Desktop/UniversityRegistrar.Solution/UniversityRegistrar/bin/Debug/net5.0/appsettings.json
+/Users/kate/Desktop/UniversityRegistrar.Solution/UniversityRegistrar/obj/Debug/net5.0/Razor/Views/Courses/Create.cshtml.g.cs
+/Users/kate/Desktop/UniversityRegistrar.Solution/UniversityRegistrar/obj/Debug/net5.0/Razor/Views/Courses/Details.cshtml.g.cs
