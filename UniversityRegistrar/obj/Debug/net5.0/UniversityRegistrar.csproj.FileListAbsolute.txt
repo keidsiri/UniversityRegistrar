@@ -44,3 +44,5 @@
 /Users/kate/Desktop/UniversityRegistrar.Solution/UniversityRegistrar/bin/Debug/net5.0/appsettings.json
 /Users/kate/Desktop/UniversityRegistrar.Solution/UniversityRegistrar/obj/Debug/net5.0/Razor/Views/Courses/Create.cshtml.g.cs
 /Users/kate/Desktop/UniversityRegistrar.Solution/UniversityRegistrar/obj/Debug/net5.0/Razor/Views/Courses/Details.cshtml.g.cs
+/Users/kate/Desktop/UniversityRegistrar.Solution/UniversityRegistrar/obj/Debug/net5.0/Razor/Views/Courses/Delete.cshtml.g.cs
+/Users/kate/Desktop/UniversityRegistrar.Solution/UniversityRegistrar/obj/Debug/net5.0/Razor/Views/Courses/Edit.cshtml.g.cs
